@@ -35,7 +35,7 @@
   </PropertyGroup>
   <ItemGroup>
     <!-- A reference to the entire .NET Framework is automatically included -->
-    <ProjectReference Include="..\..\..\..\..\Source\Workspaces\Pomodoro\PomodoroTimerUA\PomodoroTimerUA\Prism.PubSubEvents\Microsoft.Practices.Prism.PubSubEvents.csproj">
+    <ProjectReference Include="..\..\..\..\..\..\Source\Workspaces\Pomodoro\PomodoroTimerUA\PomodoroTimerUA\Prism.PubSubEvents\Microsoft.Practices.Prism.PubSubEvents.csproj">
       <Project>{d5d2645c-03eb-48b0-9873-0904fcdb2ced}</Project>
       <Name>Microsoft.Practices.Prism.PubSubEvents</Name>
     </ProjectReference>

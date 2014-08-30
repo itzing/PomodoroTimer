@@ -200,10 +200,6 @@
       <Project>{d5d2645c-03eb-48b0-9873-0904fcdb2ced}</Project>
       <Name>Microsoft.Practices.Prism.PubSubEvents</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\PomodoroTimerUA.Infrastructure\PomodoroTimerUA.Infrastructure.csproj">
-      <Project>{FA0A91B8-2B14-4B3A-AC32-5C3BF7BBE26F}</Project>
-      <Name>PomodoroTimerUA.Infrastructure</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <SDKReference Include="BehaviorsXamlSDKManaged, Version=12.0" />

@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Practices.Prism.P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Practices.Prism.PubSubEvents.Tests", "..\..\..\..\Source\Workspaces\Pomodoro\PomodoroTimerUA\PomodoroTimerUA\Prism.PubSubEvents.Tests\Microsoft.Practices.Prism.PubSubEvents.Tests.csproj", "{7C7225FE-FD57-48D1-9576-966ED0007EF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PomodoroTimerUA.Infrastructure", "PomodoroTimerUA.Infrastructure\PomodoroTimerUA.Infrastructure.csproj", "{FA0A91B8-2B14-4B3A-AC32-5C3BF7BBE26F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PomodoroTimerUA.Infrastructure", "PomodoroTimerUA\PomodoroTimerUA.Infrastructure\PomodoroTimerUA.Infrastructure.csproj", "{FA0A91B8-2B14-4B3A-AC32-5C3BF7BBE26F}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
